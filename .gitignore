@@ -1,5 +1,4 @@
 .env
-dotenv
 # Logs
 logs
 *.log
