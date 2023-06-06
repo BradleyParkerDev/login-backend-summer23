@@ -11,12 +11,12 @@
     "cors": "^2.8.5",
     "debug": "~2.6.9",
     "dotenv": "^16.1.4",
-    "express": "~4.16.1",
+    "express": "^4.18.2",
     "http-errors": "~1.6.3",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.2.2",
     "morgan": "~1.9.1",
     "nodemon": "^2.0.22",
-    "pug": "2.0.0-beta11"
+    "pug": "^3.0.2"
   }
 }
